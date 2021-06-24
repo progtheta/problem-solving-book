@@ -4,7 +4,7 @@ description: Solving Some Catagories Problem With Hints.
 theme: jekyll-theme-minimal
 markdown: kramdown
 highlighter: rouge
-show_downloads: true
+show_downloads: false
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
