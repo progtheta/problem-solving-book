@@ -3,7 +3,7 @@
 This is an expreriment Projects. Final Projects Will Come Soon
 
 1. [UVA Online Judge](src/uva)
-2. [Light OJ](src/loj)
+2. [Light OJ](src/lightoj)
 3. [SPOJ](src/spoj)
 4. [Code Forces](src/cf)
 5. [Code Chef](src/cc)
