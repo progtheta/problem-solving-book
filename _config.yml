@@ -1,7 +1,7 @@
 title: Problem Solving Book
 author: Prog Theta
 description: Solving Some Catagories Problem With Hints.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 markdown: kramdown
 highlighter: rouge
 show_downloads: false
